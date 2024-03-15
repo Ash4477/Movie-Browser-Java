@@ -21,15 +21,11 @@ MySQL
 </ul>
 
 ## Getting Started
-### Clone the repository:
-<code>
-git clone https://github.com/your-username/MovieBrowserJava.git
-</code>
+<ul>
+Clone the repository: <code> git clone https://github.com/your-username/MovieBrowserJava.git </code>
+Add mysql connector / JDBC external dependency
+Run Code
+ </ul>
 
-### Add mysql connector / JDBC external dependency
-
-### Run Code
-
-
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
